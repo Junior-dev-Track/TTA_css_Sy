@@ -9,7 +9,7 @@ Transition transform and animation
 Let's go to create our first transition.
 
 In the Html file we'll go to create a div,
-put a "<p>" with a message like : "Hello there !" ( in english ) or "coucou les pioupiou's" (in french ) 
+put a p tag with a message like : "Hello there !" ( in english ) or "coucou les pioupiou's" (in french ) 
 
 Like this : ```html
 <div class="divpiou">
