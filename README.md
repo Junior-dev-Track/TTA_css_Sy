@@ -3,13 +3,13 @@ Transition transform and animation
 
 - CREATE a new directory with the terminal ( mkdir tta_css ).
 - CREATE two files ( index.html and style.css ) in it ( touch index.html, touch style.css ).
-/!\ Don't forget to make a link in the head of your html.
+- /!\ Don't forget to make a link in the head of your html.
 ( <link rel="stylesheet" href="./style.css"> )
 
 Let's go to create our first transition.
 
 In the Html file we'll go to create a div,
-put a <p> with a message like : "Hello there !" ( in english ) or "coucou les pioupiou's" (in french ) 
+put a "<p>" with a message like : "Hello there !" ( in english ) or "coucou les pioupiou's" (in french ) 
 
 Like this : ```html
 <div class="divpiou">
