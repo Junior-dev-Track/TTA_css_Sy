@@ -59,7 +59,14 @@ Still in the css files again :
 Create a selector with :hover ( Like this : .divpiou:hover {} ).
 Make the color and the background-color what you want, me I choose black for the color and whitesmoke for the background-color ) 
 
-/!\ Don't forget to save the project with CTRL -S and now go on your browser for see the result ! 
+```css
+        .divpiou:hover {
+            color: black;
+            background-color: whitesmoke;
+        }
+```
+
+/!\ Don't forget to save the project with CTRL-S and now go on your browser for see the result ! 
 
 
 
